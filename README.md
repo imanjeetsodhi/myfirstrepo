@@ -1,2 +1,2 @@
 # myfirstrepo
-author - manjeet singh sodhi
+author - manjeet singh sodhi (yash)
